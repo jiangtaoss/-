@@ -1,0 +1,51 @@
+/* 常用的层叠样式抽取出来*/
+body {
+	font-size: 12px;
+	margin: 0px auto;
+	width:800px;
+}
+.font-style1 {
+	font-weight: bold;
+}
+.font-style2 {
+	font-size: 12px;
+}
+.font-style3 {
+	color: red;
+	font-size: 16px;
+	font-weight: bold;
+}
+.font-style4 {
+	color:orange;
+	font-size:14px;
+}
+.font-style5 {
+	color:purple;
+}
+.font-style6 {
+	color:blue;
+	font-size:14px;
+}
+.font-style7 {
+	color:black;
+	font-size:10px;
+}
+.font-style8 {
+	color:black;
+	font-size:30px;
+	font-weight: bold;
+}
+.font-style9 {
+	color:orange;
+	font-size:28px;
+	font-weight: bold;
+}
+a:LINK {
+	text-decoration: none;
+}
+a:VISITED {
+	color:blue;
+}
+a:HOVER {
+	color:orange;
+}

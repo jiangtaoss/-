@@ -1,0 +1,15 @@
+.top {
+	width: 800px;
+	height: 202px;
+}
+.zhaoshang {
+	float:left;
+	line-height: 40px;
+}
+.zhaoshang span {
+	margin-left:10px;
+	margin-top:5px;
+	display:block;
+	float:left;
+	
+}

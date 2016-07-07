@@ -1,0 +1,18 @@
+.top {
+	width: 800px;
+	height: 202px;
+}
+
+.mianfei_area {
+	background-image: url("../images/eject.gif");
+	width:679px;
+	height:443px;
+	float:left;
+}
+.mianfei_area table {
+	margin-left: 220px;
+	margin-top:140px;
+	float:left;
+	border-collapse: collapse;
+	line-height: 40px;
+}
